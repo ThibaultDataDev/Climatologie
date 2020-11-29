@@ -1,0 +1,3 @@
+pandas > timeseries pour les dates
+matplotlib pour les graph
+Geo pandas pour la carte
